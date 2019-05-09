@@ -19,8 +19,7 @@
    sodipodi:docname="pp-sicily.svg"
    inkscape:export-filename="/home/peppe/Documenti/partitopiratasiculo.github.io/pp-sicily.png"
    inkscape:export-xdpi="169.33333"
-   inkscape:export-ydpi="169.33333"
-   shape-rendering="crispEdges">
+   inkscape:export-ydpi="169.33333">
   <defs
      id="defs2">
     <linearGradient
@@ -107,7 +106,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.516249"
-     inkscape:cx="278.7328"
+     inkscape:cx="258.54082"
      inkscape:cy="109.04643"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -118,7 +117,9 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="false" />
+     inkscape:pagecheckerboard="false"
+     borderlayer="false"
+     inkscape:showpageshadow="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
